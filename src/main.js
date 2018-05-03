@@ -9,6 +9,8 @@ console.log(Mock.mock('@integer(60, 100)'))
 console.log(Mock.mock('@city'))
 console.log(Mock.mock('@county'))
 
+console.log(Vue)
+
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
